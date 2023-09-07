@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+body{
+    text-align: center;
+}
+
+.h2{
+    text-align: center;
+    color: hsl(15, 84%, 57%);
+    font-size: 60px;
+    text-shadow: 0 8px 16px hsla(0, 0%, 0%, 0.15);
+}
+
+.gdog img{
+    width: 1180px;
+    align-items: center;
+
+    padding-top: 30px;
+}
+.tag{
+    padding-bottom: 45px;
+    font-size: 50px;
+}
+.subtag{
+    color: hsl(15, 84%, 57%);
+    
+}
+
+.para{
+    max-width: 1000px;
+   margin-left: 250px;
+   font-family: sans-serif;
+   
+ padding-bottom: 100px;
+
+}
+
+
+
+.box{
+    background-color: #eee;
+    width: 330px;
+    height: 50px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 25px;
+    margin-left: 520px;
+    width: 500px;
+   
+}
+input{
+    width: 240px;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 18px;
+
+}
+.fa-solid{
+    color: orangered;
+    cursor: pointer;
+}
+
+.footer{
+    padding-top: 100px;
+}
